@@ -1,0 +1,113 @@
+XXX 001: Interpreting Song Lyrics with an Audio-Informed Pre-Trained Language Model.
+XXX 002: Toward Postprocessing-Free Neural Networks for Joint Beat and Downbeat Estimation.
+OOO 003: Generating Piano Arrangements in Different Playing Levels.
+XXX 004: Scaling Polyphonic Transcription with Mixtures of Monophonic Transcriptions.
+??? ABSXXX  005: Attention-Based Audio Embeddings for Query-by-Example.
+XXX 006: Computationally Efficient Repeated Pattern Discovery in Polyphonic Music
+??? ABSXXX  007: TAILED U-NET: Multi-Scale Music Representation Learning
+??? ABSOOO  008: DDSP-Based Singing Vocoders: A New Subtractive-Based Synthesizer and a Comprehensive Evaluation.
+XXX 009: Equivariant Self-Supervision for Musical Tempo Estimation.
+XXX 010: How Music Features and Musical Data Representations Affect Objective Evaluation of Music Composition: A Review of the CSMT Data Challenge 2020.
+XXX 011: YM2413-MDB: A MULTI-INSTRUMENTAL FM VIDEO GAME MUSIC DATASET WITH EMOTION ANNOTATIONS
+XXX 012: Detecting Symmetries of All Cardinalities with Application to Musical 12-Tone Rows.
+XXX 013: The Power of Deep Without Going Deep? A Study of HDPGMM Music Representation Learning.
+OOO 014: Pop Music Generation with Controllable Phrase Lengths
+OOO 015: Exploiting Pre-Trained Feature Networks for Generative Adversarial Networks in Audio-Domain Loop Generation.
+OOO 016: Modeling the rhythm from lyrics for melody generation of pop song.
+XXX 017: Visualization for AI-Assisted Composing
+XXX 018: Retrieving Musical Information from Neural Data: How Cognitive Features Enrich Acoustic Ones.
+XXX 019: Beat Transformer: Demixed Beat and Downbeat Tracking with Dilated Self-Attention.
+OOO 020: Sketching the Expression: Flexible Rendering of Expressive Piano Performance with Self-Supervised Learning.
+XXX 021: Exploiting Device and Audio Data to Tag Music with User-Aware Listening Contexts.
+OOO 022: Conditional Beat-Aware Audio-Domain Drum Accompaniment Generation via Transformer VQ-VAE
+XXX 023: Learning Hierarchical Metrical Structure Beyond Measures.
+XXX 024: Mid-level Harmonic Audio Features for Musical Style Classification.
+XXX 025: Distortion Audio Effects: Learning how to recover the clean signal.
+XXX 026: End-to-End Full-Page Optical Music Recognition for Mensural Notation.
+XXX 027: Mel Spectrogram Inversion with Stable Pitch.
+XXX 028: Latent Feature Augmentation for Chorus Detection.
+OOO 029: Accomontage2: A Complete Harmonization and Accompaniment Arrangement System.
+XXX 030: Supervised and Unsupervised Learning of Audio Representations for Music Understanding.
+OOO 031: Generating Coherent Drum Accompaniment with Fills and Improvisations
+XXX 032: Bottlenecks and Solutions for Audio to Score Alignment.
+XXX 033: Raga Classification from Vocal Performances Using Multimodal Analysis.
+XXX 034: Traces of Globalization in Online Music Consumption Patterns and Results of Recommendation Algorithms.
+XXX 035: Network Analyses for Cross-Cultural Music Popularity
+XXX 036: Three Related Corpora in Middle Byzantine Music Notation and a Preliminary Comparative Analysis.
+XXX 037: Playing Technique Detection by Fusing Note Onset Information in Guzheng Performance.
+XXX 038: KDC: An Open Corpus for Computational Research of Dastgahi Music.
+XXX 039: Rethinking Genre Classification.
+XXX 040: In Search of Sancaras: Tradition-informed Repeated Melodic Pattern Recognition in Carnatic Music.
+XXX 041: Automatic Chinese National Pentatonic Modes Recognition Using Convolutional Neural Network.
+XXX 042: Teach Yourself Georgian Folk Songs Dataset: An Annotated Corpus of Traditional Vocal Polyphony.
+XXX 043: Adapting Meter Tracking Models to Latin American Music.
+XXX 044: Critiquing Task- Versus Goal-Oriented Approaches: A Case for Makam Recognition.
+XXX 045: A DATASET FOR GREEK TRADITIONAL AND FOLK MUSIC: Lyra.
+XXX 046: Analysis and Detection of Singing Techniques in Repertoires of J-POP Solo Singers.
+XXX 047: Performance MIDI-to-Score Conversion by Neural Beat Tracking.
+OOO 048: Symbolic Music Loop Generation with Neural Discrete Representations.
+??? ABSXXX  049: Automatic Music Mixing with Deep Learning and Out-of-Domain Data.
+OOO 050: MUSIC-STAR: A STYLE TRANSLATION SYSTEM FOR AUDIO-BASED RE-INSTRUMENTATION
+XXX 051: Learning Unsupervised Hierarchies of Audio Concepts.
+XXX 052: Multi-objective Hyper-parameter Optimization of Behavioral Song Embeddings.
+XXX 053: A DATASET OF AUTOMATICALLY TRANSCRIBED EXPRESSIVE PIANO PERFORMANCE
+XXX 054: PDAUGMENT: DATA AUGMENTATION BY PITCH AND DURATION ADJUSTMENTS FOR AUTOMATIC LYRICS TRANSCRIPTION.
+XXX 055: Parameter Sensitivity of Deep-Feature Based Evaluation Metrics for Audio Textures.
+XXX 056: Stability of Symbolic Feature Group Importance in the Context of Multi-Modal Music Classification.
+XXX 057: Multi-Pitch Estimation Meets Microphone Mismatch: Applicability of Domain Adaptation.
+XXX 058: Melody Transcription via Generative Pre-Training.
+XXX 059: Source Separation of Piano Concertos with Test-Time Adaptation.
+XXX 060: Counterpoint Error-Detection Tools for Optical Music Recognition of Renaissance Polyphonic Music.
+XXX 061: A DATASET OF SYMBOLIC TEXTURE ANNOTATIONS IN MOZART PIANO SONATAS.
+XXX 062: VIOLIN ETUDES: A COMPREHENSIVE DATASET FOR Fo ESTIMATION AND PERFORMANCE ANALYSIS
+XXX 063: Checklist Models for Improved Output Fluency in Piano Fingering Prediction.
+??? ABSXXX  064: Automated Dense Soundtrack Construction for Books Using Movie Adaptations.
+OOO 065: Fast Infinite Waveform Music Generation
+OOO 066: Symphony Generation with Permutation Invariant Language Model.
+??? ABSOOO  067: MULAN: A JOINT EMBEDDING OF MUSIC AUDIO AND NATURAL LANGUAGE.
+OOO 068: Meloform: Generating Melody with Musical Form Based on Expert Systems and Neural Networks.
+XXX 069: Towards Robust Music Source Separation on Loud Commercial Music.
+XXX 070: Towards Quantifying the Strength of Music Scenes Using Live Event Data.
+XXX 071: Learning Multi-level Representations for Hierarchical Music Structure Analysis.
+??? ABSOOO  072: Multi-Instrument Music Synthesis with Spectrogram Diffusion.
+??? ABSOOO  073: DDX7: Differentiable FM Synthesis of Musical Instrument Sounds
+XXX 074: Singing Beat Tracking with Self-Supervised Front-End and Linear Transformers.
+XXX 075: EnsembleSet: A New High Quality Synthesised Dataset for Chamber Ensemble Separation.
+XXX 076: End-to-End Lyrics Transcription Informed by Pitch and Onset Estimation.
+XXX 077: Contrastive Audio-Language Learning for Music.
+XXX 078: MUSAV: A DATASET OF RELATIVE AROUSAL-VALENCE ANNOTATIONS FOR VALIDATION OF AUDIO MODELS.
+XXX 079: What is missing in deep music generation? A study of repetition and structure in popular music.
+XXX 080: Heterogeneous Graph Neural Network for Music Emotion Recognition.
+XXX 081: AND WHAT IF TWO MUSICAL VERSIONS DON’T SHARE MELODY, HARMONY, RHYTHM, OR LYRICS
+XXX 082: A diffusion-inspired training strategy for singing voice extraction in the waveform domain.
+XXX 083: Audio Identification with Playable Prototypes.
+??? ABSOOO  084: An Exploration of Generating Sheet Music Images.
+XXX 085: Modeling the Harmonic Structure and Pitch Invariance in Piano Transcription.
+OOO 086: Generating Music with Sentiment Using Transformer-GANs.
+XXX 087: Improving Choral Music Separation Through Expressive Synthesized Data from Sampled Instruments.
+XXX 088: Ethics of Singing Voice Synthesis: Perceptions of Users and Developers.
+??? ABSOOO  089: Emotion-Driven Harmonisation and Tempo Arrangement of Melodies Using Transfer Learning.
+XXX 090: Using Activation Functions for Improving Measure-Level Audio Synchronization.
+XXX 091: A deep learning method for melody extraction from a polyphonic symbolic music representation.
+XXX 092: A REPRODUCIBILITY STUDY ON USER-CENTRIC MIR RESEARCH AND WHY IT IS IMPORTANT
+XXX 093: Music Separation Enhancement with Generative Modeling
+XXX 094: SampleMatch: Drum Sample Retrieval by Musical Context.
+XXX 095: A TRANSFORMER-BASED "SPELLCHECKER" FOR DETECTING ERRORS IN OMR OUTPUT.
+XXX 096: "MORE THAN WORDS": LINKING MUSIC PREFERENCES AND MORAL VALUES THROUGH LYRICS.
+XXX 097: A Unified Model for Zero-Shot Singing Voice Conversion and Synthesis.
+??? ABSXXX  098: Semantic Control of Generative Musical Attributes.
+XXX 099: Music Representation Learning Based on Editorial Metadata from Discogs.
+OOO 100: Melody Infilling with User-Provided Structural Context
+XXX 101: Robust Melody Track Identification in Symbolic Music.
+XXX 102: Tracking the Evolution of a Band's Live Performances Over Decades
+XXX 103: Evaluating Generative Audio Systems and their Metrics.
+XXX 104: Representation Learning for the Automatic Indexing of Sound Effects Libraries.
+XXX 105: Concept-Based Techniques for 'Musicologist-Friendly' Explanations in a Deep Music Classifier
+XXX 106: VERSE VERSUS CHORUS: STRUCTURE-AWARE FEATURE EXTRACTION FOR LYRICS-BASED GENRE RECOGNITION
+XXX 107: Transfer Learning of WAV2VEC 2.0 for Automatic Lyric Transcription.
+XXX 108: A Novel Dataset and Deep Learning Benchmark for Classical Music Form Recognition and Analysis.
+XXX 109: BAF: AN AUDIO FINGERPRINTING DATASET FOR BROADCAST MONITORING.
+XXX 110: Cadence Detection in Symbolic Classical Music Using Graph Neural Networks.
+OOO 111: Domain Adversarial Training on Conditional Variational Auto-Encoder for Controllable Music Generation.
+XXX 112: Modeling Perceptual Loudness of Piano Tone: Theory and Applications.
+XXX 113: On the Impact and Interplay of Input Representations and Network Architectures for Automatic Music Tagging.

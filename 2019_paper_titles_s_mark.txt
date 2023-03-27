@@ -1,0 +1,114 @@
+XXX  001: Data Usage in MIR: History & Future Recommendations.
+XXX  002: Music Performance Analysis: A Survey
+XXX  003: Intelligent User Interfaces for Music Discovery: The Past 20 Years and What's to Come.
+XXX  004: 20 YEARS OF AUTOMATIC CHORD RECOGNITION FROM AUDIO
+XXX  005: Zero-shot Learning for Audio-based Music Classification and Tagging.
+XXX  006: Learning Notation Graph Construction for Full-Pipeline Optical Music Recognition.
+XXX  007: An Attention Mechanism for Musical Instrument Recognition.
+XXX  008: MIDI-SHEET MUSIC ALIGNMENT USING BOOTLEG SCORE SYNTHESIS.
+XXX  009: MIRDATA: SOFTWARE FOR REPRODUCIBLE USAGE OF DATASETS
+XXX  010: COVER DETECTION USING DOMINANT MELODY EMBEDDINGS
+XXX  011: Identifying Expressive Semantics in Orchestral Conducting Kinematics.
+XXX  012: The RomanText Format: A Flexible and Standard Method for Representing Roman Numeral Analyses.
+XXX  013: 20 YEARS OF PLAYLISTS: A STATISTICAL ANALYSIS ON POPULARITY AND DIVERSITY.
+XXX  014: Identification and Cross-Document Alignment of Measures in Music Score Images.
+XXX  015: Query-by-Blending: A Music Exploration System
+XXX  016: Improving Structure Evaluation Through Automatic Hierarchy Expansion.
+XXX  017: Conditioned-U-Net: Introducing a Control Mechanism in the U-Net for Multiple Source Separations.
+XXX  018: An Initial Computational Model for Musical Schemata Theory
+XXX  019: Evolution of the Informational Complexity of Contemporary Western Music
+XXX  020: Deep Unsupervised Drum Transcription.
+XXX  021: Estimating Unobserved Audio Features for Target-Based Orchestration.
+XXX  022: Towards Automatic Correcting Tapped Beat Annotations for Music Recordings.
+XXX  023: Algorithmic Ability to Predict the Musical Future: Datasets and Evaluation.
+XXX  024: Learning Soft-Attention Models for Tempo-Invariant Audio-Sheet Music Retrieval.
+XXX  025: Contributing to new musicological theories with computational methods: the case of centonization in Arab-Andalusian music.
+XXX  026: Temporal Convolutional Networks for Speech and Music Detection in Radio Broadcast.
+XXX  027: Towards Explainable Music Emotion Recognition: The Route via Mid-level Features.
+XXX  028: Community-Based Cover Song Detection.
+XXX  029: Tracking Beats and Microtiming in Afro-Latin American Music Using Conditional Random Fields and Deep Learning.
+XXX  030: Harmony Transformer: Incorporating Chord Segmentation into Harmony Recognition.
+XXX  031: Statistical Music Structure Analysis Based on a Homogeneity-, Repetitiveness-, and Regularity-Aware Hierarchical Hidden Semi-Markov Model.
+XXX  032: Towards Measuring Intonation Quality of Choir Recordings: A Case Study on Bruckner's Locus Iste
+XXX  033: Guitar Tablature Estimation with a Convolutional Neural Network.
+XXX  034: Learning a Joint Embedding Space of Monophonic and Mixed Music Signals for Singing Voice.
+XXX  035: Augmenting Music Listening Experiences on Voice Assistants
+???  036: Coupled Recurrent Models for Polyphonic Music Composition.
+XXX  037: HIT SONG PREDICTION: LEVERAGING LOW- AND HIGH-LEVEL AUDIO FEATURES
+XXX  038: DA-TACOS: A DATASET FOR COVER SONG IDENTIFICATION AND UNDERSTANDING
+???  039: Harmonic Syntax in Time Rhythm Improves Grammatical Models of Harmony.
+???  040: Learning to Traverse Latent Spaces for Musical Score Inpainting.
+XXX  041: Detecting Stable Regions in Frequency Trajectories for Tonal Analysis of Traditional Georgian Vocal Music.
+XXX  042: The AcousticBrainz Genre Dataset: Multi-Source, Multi-Level, Multi-Label, and Large-Scale.
+XXX  043: Data-driven song recognition estimation using collective memory dynamics models.
+XXX  044: Towards Interpretable Polyphonic Transcription with Invertible Neural Networks.
+OOO  045: Learning to Generate Music with Sentiment.
+XXX  046: Backtracking Search Heuristics for Solving the All-Partition Array Problem
+XXX  047: Modeling and Learning Structural Breaks in Sonata Forms.
+XXX  048: Auto-Adaptive Resonance Equalization Using Dilated Residual Networks.
+XXX  049: Analyzing User Interactions with Music Information Retrieval System: An Eye-tracking Approach.
+XXX  050: A Cross-Scape Plot Representation for Visualizing Symbolic Melodic Similarity.
+XXX  051: JOSQUINTAB: A DATASET FOR CONTENT-BASED COMPUTATIONAL ANALYSIS OF MUSIC IN LUTE TABLATURE
+???  052: A DATASET OF RHYTHMIC PATTERN REPRODUCTIONS AND BASELINE AUTOMATIC ASSESSMENT SYSTEM.
+XXX  053: Learning Semantic Similarity in Music via Self-Supervision.
+XXX  054: Blending Acoustic and Language Model Predictions for Automatic Music Transcription.
+XXX  055: Modelling the Syntax of North Indian Melodies with a Generalized Graph Grammar.
+???  056: A comparative study of neural models for polyphonic music sequence transduction.
+XXX  057: Learning Similarity Metrics for Melody Retrieval.
+XXX  058: Multi-Task Learning of Tempo and Beat: Learning One to Improve the Other.
+???  059: Can We Increase Inter- and Intra-Rater Agreement in Modeling General Music Similarity?
+XXX  060: AIST DANCE VIDEO DATABASE: MULTI-GENRE, MULTI-DANCER, AND MULTI-CAMERA DATABASE FOR DANCE INFORMATION PROCESSING.
+XXX  061: Microtiming Analysis in Traditional Shetland Fiddle Music.
+XXX  062: Supra: Digitizing the Stanford University Piano Roll Archive
+???  063: Fast and Flexible Neural Audio Synthesis.
+XXX  064: DEEPSRGM - Sequence Classification and Ranking in Indian Classical Music with Deep Learning.
+XXX  065: Modeling Music Modality with a Key-Class Invariant Pitch Chroma CNN.
+XXX  066: Convolutional Composer Classification
+XXX  067: A DIPLOMATIC EDITION OF IL LAURO SECCO: GROUND TRUTH FOR OMR OF WHITE MENSURAL NOTATION.
+XXX  068: The Harmonix Set: Beats, Downbeats, and Functional Segment Annotations of Western Popular Music
+XXX  069: FMP NOTEBOOKS: EDUCATIONAL MATERIAL FOR TEACHING AND LEARNING FUNDAMENTALS OF MUSIC PROCESSING
+XXX  070: Automatic Assessment of Sight-Reading Exercises.
+???  071: Supervised Symbolic Music Style Translation using Synthetic Data.
+XXX  072: Deep Music Analogy via Latent Representation Disentanglement.
+XXX  073: Query by Video: Cross-Modal Music Retrieval.
+XXX  074: Investigating CNN-Based Instrument Family Recognition for Western Classical Music Recordings.
+XXX  075: Bi-Directional Transformer for Musical Chord Recognition
+XXX  076: SAMBASET: A DATASET OF HISTORICAL SAMBA DE ENREDO RECORDINGS FOR COMPUTATIONAL MUSIC ANALYSIS
+XXX  077: Deep-Rhythm for Tempo Estimation and Rhythm Pattern Recognition.
+XXX  078: Large-Vocabulary Chord Transcription via Chord Structure Decomposition.
+OOO  079: BANDNET: A NEURAL NETWORK-BASED, MULTI-INSTRUMENT BEATLES-STYLE MIDI MUSIC COMPOSITION MACHINE
+XXX  080: Factors Influencing Reception of Music Recommendations and Post-Recommendation Behavior.
+XXX  081: Adversarial Learning for Improved Onsets and Frames Music Transcription.
+XXX  082: Automatic Music Transcription and Ethnomusicology: A User Study.
+OOO  083: LakhNES: Improving Multi-Instrumental Music Generation with Cross-Domain Pre-Training.
+XXX  084: Taking Form: A Representation Standard, Conversion Code, and Example Corpus for Recording, Visualizing, and Studying Analyses of Musical Form.
+XXX  085: Learning Complex Basis Functions for Invariant Representations of Audio
+XXX  086: Folded CQT RCNN for Real-Time Recognition of Instrument Playing Techniques.
+XXX  087: HUMDRUMR: A New Take on an Old Approach to Computational Musicology.
+XXX  088: Tunes Together: Perception and Experience of Collaborative Playlists.
+XXX  089: A HOLISTIC APPROACH TO POLYPHONIC MUSIC TRANSCRIPTION WITH NEURAL NETWORKS
+XXX  090: Generalized Metrics for Single-F0 Estimation Evaluation.
+XXX  091: Learning disentangled representations of timbre and pitch for musical instrument sounds using Gaussian mixture variational autoencoders.
+XXX  092: THE ISMIR EXPLORER – A VISUAL INTERFACE FOR EXPLORING 20 YEARS OF ISMIR PUBLICATIONS.
+XXX  093: Pattern Clustering in Monophonic Music by Learning a Non-Linear Embedding from Human Annotations.
+XXX  094: A STUDY OF ANNOTATION AND ALIGNMENT ACCURACY FOR PERFORMANCE COMPARISON IN COMPLEX ORCHESTRAL MUSIC.
+XXX  095: Mapping Timing Strategies in Drum Performance
+XXX  096: Improving Singing Aid System for Laryngectomees with Statistical Voice Conversion and VAE-Space.
+OOO  097: THE BACH DOODLE: APPROACHABLE MUSIC COMPOSITION WITH MACHINE LEARNING AT SCALE
+XXX  098: Scalable Searching and Ranking for Melodic Pattern Queries.
+XXX  099: Adaptive Time-Frequency Scattering for Periodic Modulation Recognition in Music Signals.
+OOO  100: Controlling Symbolic Music Generation Based on Concept Learning from Domain Knowledge.
+XXX  101: Unmixer: An Interface for Extracting and Remixing Loops
+XXX  102: Quantifying Disruptive Influence in the AllMusic Guide.
+XXX  103: Leveraging Knowledge Bases and Parallel Annotations for Music Genre Translation.
+OOO  104: Generating Structured Drum Pattern Using Variational Autoencoder and Self-Similarity Matrix.
+OOO  105: Rendering Music Performance with Interpretation Variations using Conditional Variational RNN.
+???  106: Interactive Workflow for Generating Chord Labels for Homorhythmic Music in Symbolic Formats
+XXX  107: Quantifying Musical Style: Ranking Symbolic Music Based on Similarity to a Style.
+XXX  108: Audio Query-Based Music Source Separation.
+???  109: Mosaic Style Transfer Using Sparse Autocorrelograms.
+???  110: Automatic Choreography Generation with Convolutional Encoder-Decoder Network.
+XXX  111: Hierarchical Classification Networks for Singing Voice Segmentation and Transcription.
+???  112: A Hierarchical RNN-Based System for Modeling Expressive Piano Performance
+XXX  113: MIDI Passage Retrieval Using Cell Phone Pictures of Sheet Music.
+XXX  114: A Convolutional Approach to Melody Line Identification in Symbolic Scores.

@@ -1,0 +1,106 @@
+XXX  001: A combined thematic and acoustic approach for a music recommendation service in TV commercials.
+XXX  002: Emotional Predisposition of Musical Instrument Timbres with Static Spectra.
+XXX  003: On Cultural, Textual and Experiential Aspects of Music Mood.
+XXX  004: Transfer Learning by Supervised Pre-Training for Audio-Based Music Classification.
+XXX  005: Estimating Musical Time Information from Performed MIDI Files.
+XXX  006: Panako - A Scalable Acoustic Fingerprinting System Handling Time-Scale and Pitch Modification.
+XXX  007: Perceptual Analysis of the F-Measure for Evaluating Section Boundaries in Music.
+XXX  008: Keyword Spotting in A-Capella Singing
+XXX  009: Extending Harmonic-Percussive Separation of Audio Signals.
+XXX  010: Estimation of the Direction of Strokes and Arpeggios.
+XXX  011: Spotting a Query Phrase from Polyphonic Music Audio Signals Based on Semi-Supervised Nonnegative Matrix Factorization.
+XXX  012: Predicting Expressive Dynamics in Piano Performances Using Neural Networks.
+XXX  013: Transcription and Recognition of Syllable Based Percussion Patterns: The Case of Beijing Opera.
+XXX  014: Harmonic-temporal factor decomposition incorporating music prior information for informed monaural source separation.
+XXX  015: Enhancing Collaborative Filtering Music Recommendation by Balancing Exploration and Exploitation.
+XXX  016: An RNN-Based Music Language Model for Improving Automatic Music Transcription.
+???  ABSXXX  017: Towards Modeling Texture in Symbolic Data.
+XXX  018: The Importance of FO Tracking in Query-by-Singing-Humming
+XXX  019: Computational Models for Perceived Melodic Similarity in A Cappella Flamenco Singing.
+XXX  020: Identifying Polyphonic Patterns from Audio Recordings Using Music Segmentation Techniques.
+XXX  021: Are Poetry and Lyrics All That Different?
+XXX  022: Singing-voice Separation from Monaural Recordings using Deep Recurrent Neural Networks.
+XXX  023: The VIS Framework: Analyzing Counterpoint in Large Datasets
+XXX  024: Hierarchical Approach to Detect Common Mistakes of Beginner Flute Players.
+???  ABSXXX  025: Bayesian Audio Alignment Based on a Unified Generative Model of Music Composition and Performance.
+XXX  026: Robust Joint Alignment of Multiple Versions of a Piece of Music.
+???  ABSXXX  027: The Kiki-Bouba Challenge: Algorithmic Composition for Content-Based MIR Research & Development.
+XXX  028: Vocal Separation Using Singer-Vowel Priors Obtained from Polyphonic Audio.
+XXX  029: Formalizing the Problem of Music Description.
+XXX  030: Improved Query-By-Tapping via Tempo Alignment.
+XXX  031: Exploiting Instrument-wise Playing/Non-Playing Labels for Score Synchronization of Symphonic Music
+XXX  032: Social Music in Cars
+XXX  033: An Association-Based Approach to Genre Classification in Music.
+???  ABSOOO  034: Multiple Viewpoint Melodic Prediction with Fixed-Context Neural Networks
+XXX  035: Taste Space versus the World: An Embedding Analysis of Listening Habits and Geography
+XXX  036: Impact of Listening Behavior on Music Recommendation.
+XXX  037: Towards Seamless Network Music Performance: Predicting an Ensemble's Expressive Decisions for Distributed Performance.
+XXX  038: Automated detection of single- and multi-note ornaments in Irish traditional flute playing.
+XXX  039: Automatic Timbre Classification of Ethnomusicological Audio Recordings.
+XXX  040: Automatic Set List Identification and Song Segmentation for Full-Length Concert Videos
+XXX  041: Sparse Cepstral and Phase Codes for Guitar Playing Technique Classification.
+XXX  042: Singing Voice Separation Using Spectro-Temporal Modulation Features.
+XXX  043: Verovio: A Library for Engraving MEI Music Notation into SVG
+XXX  044: Music Analysis as a Smallest Grammar Problem.
+XXX  045: Detection of Motor Changes in Violin Playing by EMG Signals
+XXX  046: Design and Evaluation of Onset Detectors Using Different Fusion Policies.
+XXX  047: Developing Tonal Perception Through Unsupervised Learning.
+XXX  048: Frame-level Audio Segmentation for Abridged Musical Works.
+XXX  049: Template adaptation for improving automatic music transcription.
+XXX  050: Automatic Key Partition Based on Tonal Organization Information of Classical Music
+???  ABSXXX  051: Creating a Corpus of Jingju (Beijing Opera) Music and Possibilities for Melodic Analysis.
+XXX  052: Evaluating the Evaluation Measures for Beat Tracking.
+XXX  053: Bayesian Singing-Voice Separation
+XXX  054: Probabilistic Extraction of Beat Positions from a Beat Activation Function.
+XXX  055: Geographical Region Mapping Scheme Based on Musical Preferences.
+XXX  056: On Comparative Statistics for Labelling Tasks: What Can We Learn from MIREX ACE 2013?
+XXX  057: Merged-Output HMM for Piano Fingering of Both Hands.
+XXX  058: Modeling Temporal Structure in Music for Emotion Prediction Using Pairwise Comparisons.
+XXX  059: On Inter-Rater Agreement in Audio Music Similarity.
+XXX  060: Musical Structural Analysis Database Based on GTTM.
+XXX  061: Theoretical Framework of a Computational Model of Auditory Memory for Music Emotion Recognition.
+XXX  062: Music Classification by Transductive Learning Using Bipartite Heterogeneous Networks.
+XXX  063: Tracking the "Odd": Meter Inference in a Culturally Diverse Music Corpus.
+XXX  064: Modeling Rhythm Similarity for Electronic Dance Music.
+XXX  065: MUSE: A MUSIC RECOMMENDATION MANAGEMENT SYSTEM
+XXX  066: Boundary Detection in Music Structure Analysis Using Convolutional Neural Networks
+XXX  067: Tempo- and Transposition-Invariant Identification of Piece and Score Position
+XXX  068: Automatic Melody Transcription Based on Chord Transcription.
+XXX  069: Gender Identification and Age Estimation of Users Based on Music Metadata.
+XXX  070: Audio-to-Score Alignment at Note Level for Orchestral Recordings.
+???  ABSXXX  071: A Compositional Hierarchical Model for Music Information Retrieval.
+XXX  072: Improving Music Structure Segmentation Using Lag-Priors.
+XXX  073: Study of the Similarity between Linguistic Tones and Melodic Pitch Contours in Beijing Opera Singing.
+XXX  074: AN ANALYSIS AND EVALUATION OF AUDIO FEATURES FOR MULTITRACK MUSIC MIXTURES
+XXX  075: Multi-strategy Segmentation of Melodies
+XXX  076: Information-Theoretic Measures of Music Listening Behaviour.
+XXX  077: Detecting Drops in Electronic Dance Music: Content Based Approaches to a Socially Significant Music Event.
+XXX  078: Evaluation Framework for Automatic Singing Transcription.
+XXX  079: A PROXIMITY GRID OPTIMIZATION METHOD TO IMPROVE AUDIO SEARCH FOR SOUND DESIGN.
+XXX  080: DRUM TRANSCRIPTION VIA CLASSIFICATION OF BAR-LEVEL RHYTHMIC PATTERNS
+XXX  081: Systematic Multi-scale Set-class Analysis.
+XXX  082: Introducing a Dataset of Emotional and Color Responses to Music.
+XXX  083: In-Depth Motivic Analysis Based on Multiparametric Closed Pattern and Cyclic Sequence Mining.
+XXX  084: Towards automatic content-based separation of DJ mixes into single tracks.
+XXX  085: Classifying EEG Recordings of Rhythm Perception.
+XXX  086: Analyzing Song Structure with Spectral Clustering.
+XXX  087: A Transparent Implementation of Common MIR Metrics
+XXX  088: MedleyDB: A MULTITRACK DATASET FOR ANNOTATION-INTENSIVE MIR RESEARCH.
+XXX  089: Computational Modeling of Induced Emotion Using GEMS.
+XXX  090: The Effect of Audio Quality on the Robustness of MFCCs and Chroma Features.
+XXX  091: Melody Extraction from Polyphonic Audio of Western Opera: A Method Based on Detection of the Singer's Formant.
+XXX  092: Note-Level Music Transcription by Maximum Likelihood Sampling.
+XXX  093: Cognition-Inspired Descriptors for Scalable Cover Song Retrieval
+XXX  094: Improving Music Recommender Systems: What Can We Learn from Research on Music Tastes?
+XXX  095: A Cross-Cultural Study of Mood in K-Pop Songs.
+XXX  096: Ten Years of MIREX: Reflections, Challenges and Opportunities.
+XXX  097: A DATA SET FOR COMPUTATIONAL STUDIES OF SCHENKERIAN ANALYSIS.
+XXX  098: Music Information Behaviors and System Preferences of University Students in Hong Kong.
+XXX  099: Cadence Detection in Western Traditional Stanzaic Songs Using Melodic and Textual Features.
+XXX  100: LYRICSRADAR: A LYRICS RETRIEVAL SYSTEM BASED ON LATENT TOPICS OF LYRICS.
+XXX  101: JAMS: A JSON ANNOTATED MUSIC SPECIFICATION FOR REPRODUCIBLE MIR RESEARCH
+XXX  102: On the Changing Regulations of Privacy and Personal Information in MIR.
+XXX  103: Improving Rhythmic Transcriptions via Probability Models Applied Post-OMR.
+XXX  104: Codebook-Based Scalable Music Tagging with Poisson Matrix Factorization.
+XXX  105: A MULTI-MODEL APPROACH TO BEAT TRACKING CONSIDERING HETEROGENEOUS MUSIC STYLES.
+XXX  106: Discovering Typical Motifs of a Raga from One-liners of Songs in Carnatic Music.

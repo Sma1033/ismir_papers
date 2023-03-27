@@ -1,0 +1,98 @@
+XXX  001: Spectral Correlates in Emotion Labeling of Sustained Musical Instrument Tones.
+XXX  002: A CORPUS-BASED STUDY ON RAGTIME SYNCOPATION.
+XXX  003: Design and Evaluation of Semantic Mood Models for Music Recommendation
+XXX  004: Low-Rank Representation of Both Singing Voice and Music Accompaniment via Learned Dictionaries.
+XXX  005: Converting Path Structures Into Block Structures Using Eigenvalue Decompositions of Self-Similarity Matrices.
+XXX  006: A Comparative Study of Indian and Western Music Forms
+XXX  007: Beyond NMF: Time-Domain Audio Source Separation Without Phase Reconstruction
+XXX  008: Placing Music Artists and Songs in Time Using Editorial Metadata and Web Mining Techniques.
+XXX  009: Incremental Visualization of Growing Music Collections.
+XXX  010: The Audio Effects Ontology.
+XXX  011: Swara Histogram Based Structural Analysis and Identification of Indian Classical Ragas.
+XXX  012: Exploration of Music Emotion Recognition Based on MIDI.
+XXX  013: An Extended Audio-Fingerprint Method with Capabilities for Similar Music Detection
+XXX  014: Rhythmic Pattern Modeling for Beat and Downbeat Tracking in Musical Audio.
+XXX  015: Sparse Modeling for Artist Identification: Exploiting Phase Information and Vocal Separation.
+XXX  016: Estimating the Number of Instruments in Polyphonic Music: A Comparison Between Internet and Laboratory Results.
+XXX  017: Combining Modeling of Singing Voice and Background Music for Automatic Separation of Musical Mixtures.
+XXX  018: Evaluating OMR on the Early Music Online Collection.
+XXX  019: On Finding Symbolic Themes Directly from Audio Files Using Dynamic Programming.
+XXX  020: Large-scale Cover Song Identification Using Chord Profiles.
+XXX  021: Multiscale Approaches to Music Audio Feature Learning.
+XXX  022: Sparse Music Decomposition onto a MIDI Dictionary Driven by Statistical Music Knowledge.
+XXX  023: Transfer Learning in MIR: Sharing Learned Latent Representations for Music Audio Classification and Similarity.
+???  024: Automashupper: An Automatic Multi-Song Mashup System.
+XXX  025: Freischutz Digital: A Case Study for Reference-Based Audio Segmentation of Operas
+XXX  026: Annotating Works for Music Education: Propositions for a Musical Forms and Structures Ontology and a Musical Performance Ontology.
+OOO  027: Chord-Sequence-Factory: A Chord Arrangement System Modifying Factorized Chord Sequence Probabilities.
+XXX  028: The Million Musical Tweets Dataset: What Can We Learn From Microblogs.
+XXX  029: Towards Light-Weight, Real-Time-Capable Singing Voice Detection.
+XXX  030: Automated Methods for Analyzing Music Recordings in Sonata Form.
+OOO  031: Music Cut and Paste: A Personalized Musical Medley Generating System.
+XXX  032: Automatic Vocal Expression Detection for Music Transcription.
+XXX  033: Computational Comparison of Theory and Practice of Scale Intonation in Byzantine Chant.
+XXX  034: Hooked: A Game for Discovering What Makes Music Catchy.
+XXX  035: The Use of Melodic Scales in Bollywood Music: An Empirical Study.
+XXX  036: Hierarchical Classification of Carnatic Music Forms
+XXX  037: A SIMPLE FUSION METHOD OF STATE AND SEQUENCE SEGMENTATION FOR MUSIC STRUCTURE DISCOVERY
+XXX  038: Bilevel Sparse Models for Polyphonic Music Transcription.
+XXX  039: ProductionCritic: An Educational Tool for Detecting Technical Errors in Audio Mixes.
+XXX  040: Evaluating the Quality of Playlists Based on Hand-Crafted Samples.
+XXX  041: Explicit Duration Hidden Markov Models for Multiple-Instrument Polyphonic Music Transcription.
+XXX  042: AUTOMATIC TRANSCRIPTION OF TURKISH MAKAM MUSIC
+XXX  043: Combining Timbric and Rhythmic Features for Semantic Music Tagging.
+???  044: A DISTRIBUTED MODEL FOR MULTIPLE-VIEWPOINT MELODIC PREDICTION.
+XXX  045: Combining Harmony-Based and Novelty-Based Approaches for Structural Segmentation.
+XXX  046: A Meta-Analysis of the MIREX Structure Segmentation Task.
+XXX  047: The Audio Degradation Toolbox and its Application to Robustness Evaluation.
+XXX  048: A Comprehensive Online Database of Machine-Readable Leadsheets for Jazz Standards
+XXX  049: MEUSE: RECOMMENDING INTERNET RADIO STATIONS.
+XXX  050: Improved Audio Classification Using a Novel Non-Linear Dimensionality Reduction Ensemble Approach.
+XXX  051: A Deterministic Annealing EM Algorithm for Automatic Music Transcription.
+XXX  052: Automatic Alignment of Music Performances with Structural Differences.
+XXX  053: Improving Precision and the Discovery of Inexact Musical Patterns in Point-Set Representations.
+XXX  054: MODELLING THE SPEED OF MUSIC USING FEATURES FROM HARMONIC/PERCUSSIVE SEPARATED AUDIO
+XXX  055: Inter and Intra Item Segmentation of Continuous Audio Recordings of Carnatic Music for Archival.
+XXX  056: Online Social Tags Predict Perceived or Induced Emotional Responses to Music
+XXX  057: A Study of Ensemble Synchronisation Under Restricted Line of Sight.
+XXX  058: Social-EQ: Crowdsourcing an Equalization Descriptor.
+XXX  059: A VIDEO COMPRESSION-BASED APPROACH TO MEASURE MUSIC STRUCTURE SIMILARITY
+XXX  060: Local Group Delay Based Vibrato and Tremolo Suppression for Onset Detection.
+XXX  061: Essentia: An Audio Analysis Library for Music Information Retrieval.
+XXX  062: DUNYA: A SYSTEM FOR BROWSING AUDIO MUSIC COLLECTIONS EXPLOITING CULTURAL CONTEXT
+XXX  063: An Analysis of Chorus Features in Popular Song.
+???  064: Groove Kernels as Rhythmic-Acoustic Motif Descriptors.
+XXX  065: Visual Humdrum-Library for PWGL.
+XXX  066: Score Informed Tonic Identification for Makam Music of Turkey.
+XXX  067: Source Separation of Polyphonic Music with Interactive User-Feedback on a Piano Roll Display.
+XXX  068: Learning Binary Codes for Efficient Large-Scale Music Similarity Search.
+???  069: Learning Rhythm and Melody Features with Deep Belief Networks.
+XXX  070: VERIFYING TAG ANNOTATIONS THROUGH ASSOCIATION ANALYSIS
+XXX  071: Instrument Identification Informed Multi-track Mixing.
+XXX  072: Motif Spotting in an Alapana in Carnatic Music.
+XXX  073: Optical Measure Recognition in Common Music Notation.
+XXX  074: Empirical Analysis of Track Selection and Ordering in Electronic Dance Music Using Audio Feature Extraction
+XXX  075: MusicBrainz for the World: The Chilean Experience
+XXX  076: Improving the Reliability of Music Genre Classification Using Rejection and Verification.
+XXX  077: ROBOTABA Guitar Tablature Transcription Framework
+XXX  078: Tempo Detection of Urban Music Using Tatum Grid Non-negative Matrix Factorization.
+XXX  079: TASTE OVER TIME: THE TEMPORAL DYNAMICS OF USER PREFERENCES
+XXX  080: A MACHINE LEARNING APPROACH TO VOICE SEPARATION IN LUTE TABLATURE
+XXX  081: A Study of Cultural Dependence of Perceived Mood in Greek Music.
+XXX  082: Comparing Onset Detection & Perceptual Attack Time.
+XXX  083: The Role of Audio and Tags in Music Mood Prediction: A Study Using Semantic Layer Projection.
+XXX  084: Influences of ISMIR and MIREX Research on Technology Patents.
+???  085: A METHODOLOGY FOR THE COMPARISON OF MELODIC GENERATION MODELS USING META-MELO.
+XXX  086: Beta Process Sparse Nonnegative Matrix Factorization for Music.
+XXX  087: Evaluation on Feature Importance for Favorite Song Detection.
+XXX  088: K-POP GENRES: A CROSS-CULTURAL EXPLORATION
+XXX  089: Coupling Social Network Services and Support for Online Communities in CODES Environment.
+XXX  090: QBT-Extended: An Annotated Dataset of Melodically Contoured Tapped Queries.
+XXX  091: Toward Understanding Expressive Percussion Through Content Based Analysis.
+XXX  092: AUDIO CHORD RECOGNITION WITH RECURRENT NEURAL NETWORKS
+XXX  093: Data-Driven and Discriminative Projections for Large-Scale Cover Song Identification.
+XXX  094: Basic Evaluation of Auditory Temporal Stability (BEATS): A Novel Rationale and Implementation
+XXX  095: Exploring the relation between novelty aspects and preferences in music listening.
+XXX  096: Simultaneous Unsupervised Learning of Flamenco Metrical Structure, Hypermetrical Structure, and Multipart Structural Relations.
+XXX  097: Semi-supervised Polyphonic Source Identification Using PLCA Based Graph Clustering.
+???  098: VirtualBand: Interacting with Stylistically Consistent Agents.
